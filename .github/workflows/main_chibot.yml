@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'chibot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8E8C617C12724635BECD0875A6770BD0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_166534E3E02147919EDA662645E496E8 }}
